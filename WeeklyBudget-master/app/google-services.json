@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "255122339024",
+    "project_id": "week-88336",
+    "storage_bucket": "week-88336.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255122339024:android:a4a100ebb414b0fdf3dad5",
+        "android_client_info": {
+          "package_name": "com.cohenchris.weeklybudget"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255122339024-tj9nu6pb08vndvjighkscpuuri1je3v9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRgToGOv_RC1AN3Tut0GTj26KRcXfWm7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255122339024-tj9nu6pb08vndvjighkscpuuri1je3v9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
